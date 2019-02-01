@@ -3,7 +3,8 @@
 The goal of test-one is to ...
 
 
-My name is Sasha
+My name is Inna
+
 
 ## Foods
 
